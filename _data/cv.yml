@@ -20,17 +20,18 @@
     - title: PhD - direct track
       institution: Reichman University
       location: Herzliya, Israel
-      area: Computer Science
-      year: 2021 - Summer 2024 (expected)
+      department: Computer Science
+      year: 2021 - present
+      maindescription: Expected finish Summer 2024
     - title: MSc
       institution: Reichman University
       location: Herzliya, Israel
-      area: Computer Science
+      department: Computer Science
       year: 2018-2021
     - title: BSc
       institution: Tel Aviv University
       location: Tel Aviv, Israel
-      area: Mathematics - Focus on Computer Science
+      department: Mathematics - Focus on Computer Science
       year: 2013-2017
 
 - title: Honors and Awards
@@ -49,7 +50,7 @@
   contents:
     - title: Visiting PhD student
       institution: Maastricht University
-      year: September + October 2023
+      year: Summer 2023
       location: Maastricht University
       summary: hosted by Marc Schroder
     - title: CS Preparatory Workshop Lecturer
@@ -58,19 +59,21 @@
       location: Reichman University
     - title: Summer Intern
       institution: IBM research
-      year: July - September 2023
+      year: Summer 2023
       location: Haifa, Israel
-      summary: | 
+      maindescription: | 
         I analyzed the landscape of cloud computing from a game theory perspective,
         with a focus on the impact of software improving ease of use of multiple cloud services (multicloud).
     - title: Logic and Set Theory TA
       institution: Reichman University
-      year: Spring 2022-2024
+      year: 2022-2024
       location: Reichman University
+      maindescription: Spring Semester
     - title: Algorithms TA
       institution: Reichman University
-      year: Spring 2021-2023
+      year: 2021-2023
       location: Reichman University
+      maindescription: Fall Semester Semester
     - title: Calculus 1+2 tutor
       institution: The Sharpener program, Tel Aviv university
       year: 2015-2017
@@ -83,7 +86,7 @@
       institution: IDF Intelligence
       year: 2019-2021
       location: IDF Intelligence
-      summary: | 
+      maindescription: | 
         My job was to plan, train, implement, and monitor algorithms for analysis of audio.
         This included everything from researching solutions, modifying them to suit the data,
         implementing them as part of a software pipeline, and working with users to find issues.
@@ -91,12 +94,12 @@
       institution: IDF Intelligence
       year: 2017-2019
       location: IDF Intelligence
-      summary: |
+      maindescription: |
         My job was to develop and maintain software used by signal processing researchers.
         As part of my role I also implemented, optimized, and wrote algorithms for various purposes.
     - title: Software Development Course
       institution: IDF Intelligence
       year: February - July 2017
       location: IDF Intelligence
-      summary: |
+      maindescription: |
         Intensive course in software development, primarily high-level languages
