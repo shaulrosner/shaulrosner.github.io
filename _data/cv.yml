@@ -45,22 +45,21 @@
     - year: 2019
       items:
         - Honors from Center 7140 (IDF)
-          summary: For my work in development
 
 - title: Publications
   type: list
   contents:
     - name: Cost-Sharing Games with rank-based utilities
-      publisher: Submitted (TCS)
-      release_date: Submitted
+      publisher: Submitted to TCS
+      release_date: In consideration
       summary: Joint work with Tami Tamir
     - name: Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates
-      publisher: Submitted (ICALP-24)
-      release_date: Submitted
+      publisher: Submitted to ICALP-24
+      release_date: In consideration
       summary: Joint work with Tami Tamir
     - name: Who Benefits from a Multi-Cloud Market? A Trading Networks Based Analysis
-      publisher: Submitted (IJCAI-24)
-      release_date: Submitted
+      publisher: Submitted to IJCAI-24
+      release_date: In consideration
       summary: Joint work with Segev Wasserkrug, from my time at IBM
     - name: Entrepreneurship Facility Activation Games
       publisher: The 16th International Symposium on Algorithmic Game Theory (SAGT)
