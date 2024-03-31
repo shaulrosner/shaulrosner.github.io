@@ -21,20 +21,17 @@
       institution: Reichman University
       location: Herzliya, Israel
       area: Computer Science
-      start_date: 2021
-      end_date: Expected Summer 2024
+      year: 2021 - Summer 2024 (expected)
     - title: MSc
       institution: Reichman University
       location: Herzliya, Israel
       area: Computer Science
-      start_date: 2018
-      end_date: 2021
+      year: 2018-2021
     - title: BSc
       institution: Tel Aviv University
       location: Tel Aviv, Israel
       area: Mathematics - Focus on Computer Science
-      start_date: 2013
-      end_date: 2017
+      year: 2013-2017
 
 - title: Honors and Awards
   type: time_table
@@ -46,76 +43,37 @@
       items:
         - Honors from Center 7140 (IDF)
 
-- title: Publications
-  type: list
-  contents:
-    - name: Cost-Sharing Games with rank-based utilities
-      publisher: Submitted to TCS
-      release_date: In consideration
-      summary: Joint work with Tami Tamir
-    - name: Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates
-      publisher: Submitted to ICALP-24
-      release_date: In consideration
-      summary: Joint work with Tami Tamir
-    - name: Who Benefits from a Multi-Cloud Market? A Trading Networks Based Analysis
-      publisher: Submitted to IJCAI-24
-      release_date: In consideration
-      summary: Joint work with Segev Wasserkrug, from my time at IBM
-    - name: Entrepreneurship Facility Activation Games
-      publisher: The 16th International Symposium on Algorithmic Game Theory (SAGT)
-      release_date: 2023
-      summary: Joint work with Tami Tamir
-    - name: Scheduling games with rank-based utilities
-      publisher: Games and Economic Behavior, vol.140 pp.229-252,2023
-      release_date: 2022
-      summary: Joint work with Tami Tamir
-    - name: Cost-Sharing Games with rank-based utilities
-      publisher: The 15th International Symposium on Algorithmic Game Theory (SAGT)
-      release_date: 2022
-      summary: Joint work with Tami Tamir
-    - name: Scheduling Games with rank-based utilities
-      publisher: The 15th Workshop on Models and Algorithms for Planning and Scheduling (MAPSP)
-      release_date: 2022
-      summary: Joint work with Tami Tamir
-    - name: Race Congestion Games
-      publisher: 32nd Stony Brook international conference on game theory - Poster Session
-      release_date: 2021
-      summary: ""
-    - name: Race Scheduling Games
-      publisher: The 13th International Symposium on Algorithmic Game Theory (SAGT)
-      release_date: 2020
-      summary: Joint work with Tami Tamir
 
 - title: Professional Experience
   type: time_table
   contents:
     - title: Visiting PhD student
       institution: Maastricht University
-      date: September 2023 - October 2023
+      year: September + October 2023
       location: Maastricht University
       summary: hosted by Marc Schroder
     - title: CS Preparatory Workshop Lecturer
       institution: Reichman University
-      date: Summer Semester 2023
+      year: Summer 2023
       location: Reichman University
     - title: Summer Intern
       institution: IBM research
-      date: July 2023 - September 2023
+      year: July - September 2023
       location: Haifa, Israel
       summary: | 
         I analyzed the landscape of cloud computing from a game theory perspective,
         with a focus on the impact of software improving ease of use of multiple cloud services (multicloud).
     - title: Logic and Set Theory TA
       institution: Reichman University
-      date: Spring Semester 2022-2024
+      year: Spring 2022-2024
       location: Reichman University
     - title: Algorithms TA
       institution: Reichman University
-      date: Spring Semester 2021-2023
+      year: Spring 2021-2023
       location: Reichman University
     - title: Calculus 1+2 tutor
       institution: The Sharpener program, Tel Aviv university
-      date: 2015-2017
+      year: 2015-2017
       location: Tel Aviv university
 
 - title: Military Service
@@ -123,7 +81,7 @@
   contents:
     - title: Researcher in an Audio Research Section
       institution: IDF Intelligence
-      date: 2019-2021
+      year: 2019-2021
       location: IDF Intelligence
       summary: | 
         My job was to plan, train, implement, and monitor algorithms for analysis of audio.
@@ -131,14 +89,14 @@
         implementing them as part of a software pipeline, and working with users to find issues.
     - title: Software Developer in a Research Section
       institution: IDF Intelligence
-      date: 2017-2019
+      year: 2017-2019
       location: IDF Intelligence
       summary: |
         My job was to develop and maintain software used by signal processing researchers.
         As part of my role I also implemented, optimized, and wrote algorithms for various purposes.
     - title: Software Development Course
       institution: IDF Intelligence
-      date: February 2017- July 2017
+      year: February - July 2017
       location: IDF Intelligence
       summary: |
         Intensive course in software development, primarily high-level languages
