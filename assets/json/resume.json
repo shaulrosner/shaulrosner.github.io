@@ -51,7 +51,6 @@
     }
   ],
   "publications": [
-    [
   {
     "name": "Cost-Sharing Games with rank-based utilities",
     "publisher": "Submitted (TCS)",
@@ -106,11 +105,11 @@
     "releaseDate": "2020",
     "summary": "Joint work with Tami Tamir"
   }
-]
+],
 "Professional Experience": [
 {
 "name":"Visiting PhD student",
-"date":"September 2023- October 2023",
+"date":"September 2023 - October 2023",
 "location":"Maastricht University",
 "summary":"hosted by Marc Schroder"
 },
@@ -140,8 +139,6 @@
 "date":"2015-2017",
 "location":"\"The Sharpener\" program, Tel Aviv university"
 },
-]
-
   ],
   "Military Service": [
   {
