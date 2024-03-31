@@ -19,18 +19,18 @@
   contents:
     - title: PhD - direct track
       institution: Reichman University
-      location: Herzliya, Israel
+      location: Herzliya, IL
       department: Computer Science
       year: 2021 - present
       maindescription: Expected finish Summer 2024
     - title: MSc
       institution: Reichman University
-      location: Herzliya, Israel
+      location: Herzliya, IL
       department: Computer Science
       year: 2018-2021
     - title: BSc
       institution: Tel Aviv University
-      location: Tel Aviv, Israel
+      location: Tel Aviv, IL
       department: Mathematics - Focus on Computer Science
       year: 2013-2017
 
@@ -51,33 +51,34 @@
     - title: Visiting PhD student
       institution: Maastricht University
       year: Summer 2023
-      location: Maastricht University
+      location: Maastricht, NL
       summary: hosted by Marc Schroder
     - title: CS Preparatory Workshop Lecturer
       institution: Reichman University
       year: Summer 2023
-      location: Reichman University
+      location: Herzliya, IL
     - title: Summer Intern
       institution: IBM research
       year: Summer 2023
-      location: Haifa, Israel
+      location: Haifa, IL
       maindescription: | 
         I analyzed the landscape of cloud computing from a game theory perspective,
         with a focus on the impact of software improving ease of use of multiple cloud services (multicloud).
     - title: Logic and Set Theory TA
       institution: Reichman University
       year: 2022-2024
-      location: Reichman University
+      location: Herzliya, IL
       maindescription: Spring Semester
     - title: Algorithms TA
       institution: Reichman University
       year: 2021-2023
-      location: Reichman University
+      location: Herzliya, IL
       maindescription: Fall Semester Semester
     - title: Calculus 1+2 tutor
-      institution: The Sharpener program, Tel Aviv university
+      institution: Tel Aviv university
       year: 2015-2017
-      location: Tel Aviv university
+      location: Tel Aviv, IL
+      maindescription: The Sharpener program
 
 - title: Military Service
   type: time_table
@@ -85,7 +86,6 @@
     - title: Researcher in an Audio Research Section
       institution: IDF Intelligence
       year: 2019-2021
-      location: IDF Intelligence
       maindescription: | 
         My job was to plan, train, implement, and monitor algorithms for analysis of audio.
         This included everything from researching solutions, modifying them to suit the data,
@@ -93,13 +93,11 @@
     - title: Software Developer in a Research Section
       institution: IDF Intelligence
       year: 2017-2019
-      location: IDF Intelligence
       maindescription: |
         My job was to develop and maintain software used by signal processing researchers.
         As part of my role I also implemented, optimized, and wrote algorithms for various purposes.
     - title: Software Development Course
       institution: IDF Intelligence
       year: February - July 2017
-      location: IDF Intelligence
       maindescription: |
         Intensive course in software development, primarily high-level languages
