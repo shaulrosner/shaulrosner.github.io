@@ -1,199 +1,166 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shaul Rosner",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shaul.rosner@gmail.com",
+    "phone": "(+972)52-740-5929",
+    "url": "https://shaulrosner.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Mivtza Kadesh 59b",
+      "city": "Tel Aviv",
+      "countryCode": "IL"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Reichman University",
+      "location": "Herzliya, Israel",
+      "area": "Computer Science",
+      "studyType": "PhD - direct track",
+      "startDate": "2021",
+	  "endDate": "Expected Summer 2024"
+    },
+	{
+      "institution": "Reichman University",
+      "location": "Herzliya, Israel",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2018",
+	  "endDate": "2021"
+    },
+	{
+      "institution": "Tel Aviv University",
+      "location": "Tel Aviv, Israel",
+      "area": "Mathematics - Focus on Computer Science",
+      "studyType": "BSc",
+      "startDate": "2013",
+	  "endDate": "2017"
     }
   ],
-  "awards": [
+  "awards & honors": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Teaching Excellence Award",
+      "date": "2022",
+      "awarder": "Reichman University",
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+	 {
+      "title": "Honors from Center 7140",
+      "date": "2019",
+      "awarder": "IDF",
+	  "summary": "For my work in development"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+    [
+  {
+    "name": "Cost-Sharing Games with rank-based utilities",
+    "publisher": "Submitted (TCS)",
+    "releaseDate": "Submitted",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates",
+    "publisher": "Submitted (ICALP-24)",
+    "releaseDate": "Submitted",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Who Benefits from a Multi-Cloud Market? A Trading Networks Based Analysis",
+    "publisher": "Submitted (IJCAI-24)",
+    "releaseDate": "Submitted",
+    "summary": "Joint work with Segev Wasserkrug, from my time at IBM"
+  },
+  {
+    "name": "Entrepreneurship Facility Activation Games",
+    "publisher": "The 16th International Symposium on Algorithmic Game Theory (SAGT)",
+    "releaseDate": "2023",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Scheduling games with rank-based utilities",
+    "publisher": "Games and Economic Behavior, vol.140 pp.229-252,2023",
+    "releaseDate": "2022",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Cost-Sharing Games with rank-based utilities",
+    "publisher": "The 15th International Symposium on Algorithmic Game Theory (SAGT)",
+    "releaseDate": "2022",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Scheduling Games with rank-based utilities",
+    "publisher": "The 15th Workshop on Models and Algorithms for Planning and Scheduling (MAPSP)",
+    "releaseDate": "2022",
+    "summary": "Joint work with Tami Tamir"
+  },
+  {
+    "name": "Race Congestion Games",
+    "publisher": "32nd Stony Brook international conference on game theory - Poster Session",
+    "releaseDate": "2021",
+    "summary": ""
+  },
+  {
+    "name": "Race Scheduling Games",
+    "publisher": "The 13th International Symposium on Algorithmic Game Theory (SAGT)",
+    "releaseDate": "2020",
+    "summary": "Joint work with Tami Tamir"
+  }
+]
+"Professional Experience": [
+{
+"name":"Visiting PhD student",
+"date":"September 2023- October 2023",
+"location":"Maastricht University",
+"summary":"hosted by Marc Schroder"
+},
+{
+"name":"CS Preparatory Workshop Lecturer",
+"date":"Summer Semester 2023",
+"location":"Reichman University"
+},
+{
+"name":"Summer Intern",
+"date":"July 2023 - September 2023",
+"location":"IBM research, Haifa, Israel",
+"summary":"I analyzed the landscape of cloud computing from a game theory perspective, with a focus on the impact of software improving ease of use of multiple cloud services (multicloud)."
+},
+{
+"name":"Logic and Set Theory TA",
+"date":"Spring Semester 2022-2024",
+"location":"Reichman University"
+},
+{
+"name":"Algorithms TA",
+"date":"Spring Semester 2021-2023",
+"location":"Reichman University"
+},
+{
+"name":"Calculus 1+2 tutor",
+"date":"2015-2017",
+"location":"\"The Sharpener\" program, Tel Aviv university"
+},
+]
+
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+  "Military Service": [
+  {
+"name":"Researcher in an Audio Research Section",
+"date":"2019-2021",
+"location":"IDF Intelligence",
+"summary": "My job was to plan, train, implement, and monitor algorithms for analysis of audio. This included everything from researching solutions, modifying them to suit the data, implementing them as part of a software pipeline, and working with users to find issues."
+},
+  {
+"name":"Software Developer in a Research Section",
+"date":"2017-2019",
+"location":"IDF Intelligence",
+"summary": "My job was to develop and maintain software used by signal processing researchers. As part of my role I also implemented, optimized, and wrote algorithms for various purposes."
+},
+{
+"name":"Software Development Course",
+"date":"February 2017- July 2017",
+"location":"IDF Intelligence",
+"summary": "Intensive course in software development, primarily high-level languages"
+},
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
