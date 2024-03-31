@@ -5,6 +5,9 @@
   title  = {Cost-Sharing Games with Rank-Based Utilities},
   note   = {In consideration for TCS},
   year={2024}
+  abstract={Studies in behavioural science show that individuals are often concerned primarily about their relative welfare, rather than their absolute well-being.In this paper we define and study a variant of congestion game that reflects this phenomenon.
+In a cost-sharing game with rank-based utilities (CSRB-game, for short), the players are partitioned into competition sets, and the goal of every player is to minimize its cost relative to its competitors. Specifically, the primary goal of a player is to minimize the rank of its cost among its competitors, while minimizing the cost itself is a secondary objective. 
+We show that CSRB-games are significantly different from classical cost-sharing games, and that competition may lead to a poor outcome. In particular, singleton CSRB-games need not have a pure Nash equilibrium, and even when a NE exists, natural dynamics may not converge to a NE, and the price of stability is linear in the number of players. We then analyze several natural restricted classes of singleton \CSRB-games, for which we present positive results. We provide tight characterization of classes for which a NE exists and can be computed efficiently, and bound the equilibrium inefficiency, based on the competition structure, the number of players and resources, the uniformity of resources' costs, and the strategy space of competing players.}
 }
 
 @misc{RT24,
@@ -12,6 +15,12 @@
   title  = {Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates},
   note   = {In consideration for ICALP 2024},
   year={2024}
+  abstract={We consider a scheduling environment in which jobs are associated with machine-dependent due-dates. This natural setting arises in systems in which clients' tolerance depends on the service they receive. 
+
+We analyze the basic problem of maximizing the throughput, given by the number of non-tardy jobs. As we show, the problem exhibits significant differences from previously studied scheduling problems.
+Our analysis distinguishes between sequential processing, where jobs are processed one after the other, and time-sharing processing, where all the jobs assigned to a machine are processed in parallel and have the same completion time. With time-sharing processing, even simple classes of the problem, with unit-length jobs, correspond to a new variant of bipartite matching, in which the number of times a vertex can be matched depends on the vertices to which it is matched.
+
+For both processing modes, we analyze the computational complexity of the problem in general and for restricted classes of instances. We present hardness results as well as optimal and approximation algorithms. }
 }
 @misc{KORW,
   author = {Kinoshita, Hirota and Osogami, Takayuki and Rosner, Shaul and Wasserkrug, Segev },
@@ -28,6 +37,16 @@
   pages={90--108},
   year={2023},
   organization={Springer}
+   url={https://dl.acm.org/doi/abs/10.1007/978-3-031-43254-5_6}
+  abstract={In recent years, entrepreneurship has become a driving force for innovation and economic growth. While it has been extensively studied by economists, it has not received much attention in the AGT community.
+
+We define and study an entrepreneurship facility-activation game, played by a single entrepreneur and $n$ users. The entrepreneur may activate and close facilities, and each user should select one active facility. This setting combines a weighted singleton congestion game played by the users, with a revenue maximization game played by the entrepreneur, who dynamically determines the set of active facilities in response to the users' assignment. 
+
+We analyze the resulting game from multiple perspectives. From the entrepreneur's perspective, maximizing her profit, we provide an asymptotically tight $O(\sqrt{n})$-approximation algorithm with and without stability restrictions.
+
+For the total welfare problem of minimizing the total users cost and facilities activation cost, we provide tight linear bounds for the PoA and PoS. Additionally, we analyze the computational complexity of both the social optimum and the cheapest stable solution. We distinguish between games with weighted and unweighted users, with and without symmetric strategies, and between arbitrary and uniform facility activation costs.
+
+Our results highlight the challenges of revenue maximization for entrepreneurs and the high impact of entrepreneurship on the total welfare and the equilibrium efficiency.}
 }
 
 @article{rosner2023scheduling,
@@ -38,6 +57,13 @@
   pages={229--252},
   year={2023},
   publisher={Elsevier}
+  url={https://www.sciencedirect.com/science/article/pii/S0899825623000398}
+  abstract={Job scheduling on parallel machines is a well-studied singleton congestion game.
+We consider a variant of this game, arising in environments with strong competition. In a scheduling game with rank-based utilities (SRBG) the players are partitioned into competition sets}, and the goal of every player is to perform well relative to its competitors.
+
+We show that SRBGs are significantly different from classical job-scheduling games, and that competition may lead to poor outcomes. An SRBG need not have a pure Nash equilibrium, and best-response dynamics may not converge to a NE even if one exists. We identify several classes of games for which a NE exists and can be computed efficiently, present tight bounds on the equilibrium inefficiencies, and suggest ways to modify SRBGs in order to guarantee NE existence.
+
+Our analysis provides insights for several other congestion and cost-sharing games that have a natural `rank-based' variant.}
 }
 
 @inproceedings{rosner2022cost,
