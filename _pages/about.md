@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Phd student at Reichman University (expected to finish summer 2024) working on various models of congestion, primarily from an algorithmic game theory perspective.
+I am a PhD student at Reichman University (expected to graduate summer 2024) working on various models of congestion, primarily from an algorithmic game theory perspective.
