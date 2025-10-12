@@ -3,99 +3,113 @@
   contents:
     - name: Full Name
       value: Shaul Rosner
-    - name: Date of Birth
-      value: July 4, 1997
     - name: Email
       value: shaul.rosner@gmail.com
     - name: Phone
-      value: "(+972)52-740-5929"
+      value: "(+972)-527405929"
     - name: Website
       value: https://shaulrosner.github.io/
+    - name: ORCID
+      value: https://orcid.org/0009-0006-4671-2566
     - name: Location
       value: Tel Aviv, Israel
 
-- title: Education
+- title: Higher Education
   type: time_table
   contents:
-    - title: PhD - direct track
+    - title: Postdoc
+      institution: Tel Aviv University
+      location: Tel Aviv, IL
+      department: Computer Science
+      year: 2024–2025
+    - title: PhD (Direct Track)
       institution: Reichman University
       location: Herzliya, IL
       department: Computer Science
-      year: 2021 - 2024
-      maindescription: Titled "Models of Congestion with Non-Standard Utilities"
+      year: 2021–2024
     - title: MSc
       institution: Reichman University
       location: Herzliya, IL
       department: Computer Science
-      year: 2018-2021
+      year: 2018–2021
+      maindescription: GPA: 95
     - title: BSc
       institution: Tel Aviv University
       location: Tel Aviv, IL
-      department: Mathematics - Focus on Computer Science
-      year: 2013-2017
+      department: Mathematics – Focus on Computer Science
+      year: 2013–2017
+      maindescription: GPA: 87
 
-- title: Honors and Awards
+- title: Academic Publications
+  type: list
+  contents:
+    - input: publication.tex
+
+- title: Public Professional Activities
+  type: time_table
+  contents:
+    - title: SAGT – PC Member
+      year: 2025
+    - title: WINE – PC Member
+      year: 2025
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Visiting PhD Student
+      institution: Maastricht University
+      location: Maastricht, NL
+      year: Sep 2023 – Oct 2023
+      maindescription: Hosted by Marc Schröder.
+    - title: CS Preparatory Workshop Lecturer
+      institution: Reichman University
+      location: Herzliya, IL
+      year: 2023
+    - title: Summer Intern
+      institution: IBM Research
+      location: Haifa, IL
+      year: Jul 2023 – Sep 2023
+      maindescription: |
+        Analyzed the landscape of cloud computing from a game theory perspective, 
+        focusing on the impact of software improving ease of use of multiple cloud services (multicloud).
+    - title: Logic and Set Theory TA
+      institution: Reichman University
+      location: Herzliya, IL
+      year: 2022–2024
+    - title: Algorithms TA
+      institution: Reichman University
+      location: Herzliya, IL
+      year: 2021–2023
+    - title: Audio Researcher
+      year: 2019–2021
+      maindescription: |
+        Planned, trained, implemented, and monitored algorithms for audio analysis. 
+        Responsibilities included research, adaptation of solutions to data, 
+        software implementation, and user collaboration for issue resolution.
+    - title: Software Developer
+      year: 2017–2019
+      maindescription: |
+        Developed and maintained software used by signal processing researchers. 
+        Implemented, optimized, and wrote algorithms for various research applications.
+    - title: Calculus 1+2 Tutor
+      institution: Tel Aviv University
+      location: Tel Aviv, IL
+      year: 2015–2017
+      maindescription: "The Sharpener Program"
+
+- title: Awards and Honors
   type: time_table
   contents:
     - year: 2022
       items:
         - Teaching Excellence Award (Reichman University)
-    - year: 2019
+    - year: 2021
       items:
-        - Honors from Center 7140 (IDF)
+        - Competitive Programming – 40th Place (SWERC)
 
-
-- title: Professional Experience
-  type: time_table
+- title: Technical Skills
+  type: list
   contents:
-    - title: Visiting PhD student
-      institution: Maastricht University
-      year: Summer 2023
-      location: Maastricht, NL
-      maindescription: Hosted by Prof. Marc Schroder.
-    - title: CS Preparatory Workshop Lecturer
-      institution: Reichman University
-      year: Summer 2023
-      location: Herzliya, IL
-    - title: Summer Intern
-      institution: IBM research
-      year: Summer 2022
-      location: Haifa, IL
-      maindescription: | 
-        I analyzed the landscape of cloud computing from a game theory perspective,
-        with a focus on the impact of software improving ease of use of multiple cloud services (multicloud).
-    - title: Logic and Set Theory TA
-      institution: Reichman University
-      year: 2022-2024
-      location: Herzliya, IL
-    - title: Algorithms TA
-      institution: Reichman University
-      year: 2021-2023
-      location: Herzliya, IL
-    - title: Calculus 1+2 tutor
-      institution: Tel Aviv university
-      year: 2015-2017
-      location: Tel Aviv, IL
-      maindescription: The Sharpener program
-
-- title: Military Service
-  type: time_table
-  contents:
-    - title: Researcher in an Audio Research Section
-      institution: IDF Intelligence
-      year: 2019-2021
-      maindescription: | 
-        My job was to plan, train, implement, and monitor algorithms for analysis of audio.
-        This included everything from researching solutions, modifying them to suit the data,
-        implementing them as part of a software pipeline, and working with users to find issues.
-    - title: Software Developer in a Research Section
-      institution: IDF Intelligence
-      year: 2017-2019
-      maindescription: |
-        My job was to develop and maintain software used by signal processing researchers.
-        As part of my role I also implemented, optimized, and wrote algorithms for various purposes.
-    - title: Software Development Course
-      institution: IDF Intelligence
-      year: 2017
-      maindescription: |
-        Intensive course in software development, primarily high-level languages
+    - Programming Languages: Python, C#, Java, C, C++, JavaScript (Node.js, Angular, React), MATLAB
+    - Machine Learning / Data Processing: PyTorch, Kaldi, scikit-learn, pandas
+    - Databases / Infrastructure: SQL, Elasticsearch, Kafka, Docker, Flask

@@ -1,29 +1,61 @@
 ---
 ---
-@misc{RT24TCS,
+@misc{RSV25}
+bibtex_show={true},
+  author = {Rosner, Shaul and Schr{\"o}der, Marc and Vargas Koch, Laura},
+  title  = {Nash Flows Over Time with Tolls},
+  note   = {Accepted to WINE 2025},
+  year={2025},
+  abstract={We study a dynamic routing game motivated by traffic flows. 
+The base model for an edge is the Vickrey bottleneck model. That is, edges are equipped with a free flow transit time and a capacity. When the inflow into an edge exceeds its capacity, a queue forms and the following particles experience a waiting time. 
+In this paper, we enhance the model by introducing tolls, i.e., a cost each flow particle must pay for traversing an edge.
+In this setting we consider non-atomic equilibria, which means flows over time in which every particle is on a cheapest path, when summing up toll and travel time.
+
+We first show that unlike in the non-tolled version of this model, dynamic equilibria are not unique in terms of costs and do not necessarily reach a steady state. As a main result, we provide a procedure to compute steady states in the model with tolls.
+}
+
+@misc{RT25itcs,
 bibtex_show={true},
   author = {Rosner, Shaul and Tamir, Tami},
-  title  = {Cost-Sharing Games with Rank-Based Utilities},
-  note   = {Full version, Under revision for TCS},
-  year={2024},
+  title  = {Bipartite Matching with Pair-Dependent Bounds},
+  note   = {Submitted to ITCS 2025},
+  year={2025},
+  website={https://arxiv.org/abs/2508.20002},
+  abstract={Let $G=(U \cup V, E)$ be a bipartite graph, where $U$ represents jobs and $V$ represents machines. We introduce and study a new variant of the bipartite matching problem in which each job in $U$ can be assigned to at most one machine in $V$, while the capacity of a machine depends on the particular set of jobs matched to it. These pair-dependent capacity constraints capture settings where different jobs exhibit varying tolerance to congestion, depending on the machine to which they are assigned.
+
+We define a {\em bipartite PD-matching} as a set of edges $M \subseteq E$ that respects these job-to-machine tolerance constraints. This variant of matching extends well-known matching problems, however, despite its relevance to real-world systems, it has not been studied before. We study bipartite PD-matchings with the objective of maximizing the matching size. As we show, the problem exhibits fundamental differences from previously explored matching variants. We analyze its computational complexity both in the general case and for specific restricted instances, presenting hardness results alongside optimal and approximation algorithms.
+}
+
+@misc{RT25,
+bibtex_show={true},
+  author = {Rosner, Shaul and Tamir, Tami},
+  title  = {Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates},
+  note   = {Presented at ATMOS 2025},
+  year={2025},
+  abstract={We consider a scheduling environment in which jobs are associated with {\em machine-dependent} due-dates. This natural setting arises in systems where clients' tolerance depends on the service provider. 
+
+The objective is to maximize throughput, defined as the number of non-tardy jobs. The problem exhibits significant differences from previously studied scheduling models. We analyze its computational complexity both in general and for the special case of unit-length jobs.
+
+In the unit-length setting, we provide an optimal algorithm that also extends to cases with machine-dependent release times and machine-dependent weights (i.e., rewards depending on the machine that completes the job).
+
+For jobs with different lengths, we show that even the unweighted problem without release times, with only two different lengths, specifically, for all $j$, $p_j \in \{1,2\}$, is APX-hard. To isolate the role of machine-dependent due-dates in this hardness result, we  present an optimal algorithm for the case where all $p_j \in {1,2}$ and due-dates are not machine-dependent. This algorithm further extends to instances with a constant number of integer processing times.
+}
+
+@article{rosner2025cost,
+  title={Cost-sharing games with rank-based utilities},
+  author={Rosner, Shaul and Tamir, Tami},
+  journal={Theoretical Computer Science},
+  volume={1039},
+  pages={115186},
+  year={2025},
+  website={https://www.sciencedirect.com/science/article/abs/pii/S0304397525001240},
+  publisher={Elsevier}
+
   abstract={Studies in behavioural science show that individuals are often concerned primarily about their relative welfare, rather than their absolute well-being.In this paper we define and study a variant of congestion game that reflects this phenomenon.
 In a cost-sharing game with rank-based utilities (CSRB-game, for short), the players are partitioned into competition sets, and the goal of every player is to minimize its cost relative to its competitors. Specifically, the primary goal of a player is to minimize the rank of its cost among its competitors, while minimizing the cost itself is a secondary objective. 
 We show that CSRB-games are significantly different from classical cost-sharing games, and that competition may lead to a poor outcome. In particular, singleton CSRB-games need not have a pure Nash equilibrium, and even when a NE exists, natural dynamics may not converge to a NE, and the price of stability is linear in the number of players. We then analyze several natural restricted classes of singleton \CSRB-games, for which we present positive results. We provide tight characterization of classes for which a NE exists and can be computed efficiently, and bound the equilibrium inefficiency, based on the competition structure, the number of players and resources, the uniformity of resources' costs, and the strategy space of competing players.}
 }
 
-@misc{RT24,
-bibtex_show={true},
-  author = {Rosner, Shaul and Tamir, Tami},
-  title  = {Throughput Maximization in a Scheduling Environment with Machine-Dependent Due-dates},
-  note   = {Submitted},
-  year={2024},
-  abstract={We consider a scheduling environment in which jobs are associated with machine-dependent due-dates. This natural setting arises in systems in which clients' tolerance depends on the service they receive. 
-
-We analyze the basic problem of maximizing the throughput, given by the number of non-tardy jobs. As we show, the problem exhibits significant differences from previously studied scheduling problems.
-Our analysis distinguishes between sequential processing, where jobs are processed one after the other, and time-sharing processing, where all the jobs assigned to a machine are processed in parallel and have the same completion time. With time-sharing processing, even simple classes of the problem, with unit-length jobs, correspond to a new variant of bipartite matching, in which the number of times a vertex can be matched depends on the vertices to which it is matched.
-
-For both processing modes, we analyze the computational complexity of the problem in general and for restricted classes of instances. We present hardness results as well as optimal and approximation algorithms. }
-}
 @misc{KORW,
 bibtex_show={true},
   author = {Kinoshita, Hirota and Osogami, Takayuki and Rosner, Shaul and Wasserkrug, Segev },
